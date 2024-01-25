@@ -1,0 +1,8 @@
+.vs/
+.idea/
+out/
+.vscode/
+src/proto/*.cc
+src/proto/*.h
+CMakeSettings.json
+cmake-build-*/
